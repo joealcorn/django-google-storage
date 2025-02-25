@@ -11,7 +11,7 @@ setup(
     license='LICENSE.txt',
     description='Django storage for Google Storage',
     install_requires=[
-        "Django >= 1.4",
+        "Django >= 1.10",
         "boto",
     ],
 )
